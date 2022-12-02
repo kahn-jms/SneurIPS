@@ -15,3 +15,9 @@ credit goes to them.
 ## Installation
 
 Install all requirements in a Python virtual environment using the provided `requirements.txt`.
+
+## Dataset
+
+For the original work, this was trained on the Kaggle dataset [All NeurIPS (NIPS) Papers](https://www.kaggle.com/datasets/rowhitswami/nips-papers-1987-2019-updated?resource=download&select=papers.csv).
+Of course you're free to train on anything you like.
+
