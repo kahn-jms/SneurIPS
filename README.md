@@ -2,7 +2,7 @@
 
 A very simple snarXiv-like fake ML paper name generator. 
 
-This is basically just a single notebook that trains an LSTM based on previous paper titles,
+This is basically just a single notebook that trains a GRU based on previous paper titles,
 then generates fake ones based on a prompt.
 
 The outputs were originally used in a pub quiz where people try to distinguish real NeurIPS titles from fake ones... they couldn't.
